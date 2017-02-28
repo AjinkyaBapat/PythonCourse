@@ -3,4 +3,4 @@ python:
     - "3.6"
 script:
     - cd "Week 2"
-    - python Intreverse.py
+    - python HelloWorld.py

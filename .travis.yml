@@ -2,5 +2,5 @@ language: python
 python:
     - "3.6"
 script:
-    - cd Week2
+    - cd "Week 2"
     - python Intreverse.py

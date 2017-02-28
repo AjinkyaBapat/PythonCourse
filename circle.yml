@@ -6,4 +6,4 @@ test:
   pre:
     - ls Week\ 2
     - ls /Week\ 2
-    - "python Week\ 2/HelloWorld.py"
+    - python Week\ 2/HelloWorld.py

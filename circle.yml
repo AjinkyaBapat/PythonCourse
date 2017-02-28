@@ -1,0 +1,8 @@
+machine:
+  python:
+    version: 3.6
+
+test:
+  pre:
+    - cd "Week 2"
+    - python HelloWorld.py

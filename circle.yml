@@ -4,6 +4,6 @@ machine:
 
 test:
   pre:
-    - cd Week\ 2
-    - ls
-    - "python Week 2/HelloWorld.py"
+    - ls Week\ 2
+    - ls /Week\ 2
+    - "python Week\ 2/HelloWorld.py"

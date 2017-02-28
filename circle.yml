@@ -5,4 +5,5 @@ machine:
 test:
   pre:
     - cd "Week 2"
+    - ls
     - python HelloWorld.py

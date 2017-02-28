@@ -5,4 +5,4 @@ machine:
 test:
   pre:
     - ls
-    - python ./Week 2/HelloWorld.py
+    - "python ./Week 2/HelloWorld.py"

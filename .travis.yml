@@ -9,3 +9,4 @@ deploy:
     provider: heroku
     api_key: e9b7bbbe-625a-44a6-ba29-3fdde7940eba
     app: ajinkya-travis-app
+    buildpack: python
